@@ -35,10 +35,3 @@ The model's performance metrics on the test data are as follows:
 - Recall: 99.20%
 
 The confusion matrix visualizes the model's predictions on the test data.
-
-
----
-
-**Note:** This README provides an overview of the project without including licensing details. You can add your specific license information, contributing guidelines, or any other relevant details based on your project's requirements.
-
-Feel free to modify this template according to your project's specifics!
