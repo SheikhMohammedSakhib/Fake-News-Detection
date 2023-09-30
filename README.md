@@ -12,12 +12,6 @@ This repository contains code to classify news articles into fake and real categ
 - **Training and Validation:** The model is compiled, trained, and validated with early stopping to prevent overfitting.
 - **Evaluation:** The trained model is evaluated on the test data, and accuracy, precision, recall scores, and confusion matrix are generated.
 
-## Usage
-
-1. Ensure you have the 'Fake.csv' and 'True.csv' files in the correct directory.
-2. Install the required Python libraries using `pip install -r requirements.txt`.
-3. Run the `fake_real_news_classification.py` script to execute the code.
-
 ## Dependencies
 
 - Pandas
