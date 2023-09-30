@@ -35,3 +35,6 @@ The model's performance metrics on the test data are as follows:
 - Recall: 99.20%
 
 The confusion matrix visualizes the model's predictions on the test data.
+
+
+# The dataset is from Kaggle ( https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset ).
