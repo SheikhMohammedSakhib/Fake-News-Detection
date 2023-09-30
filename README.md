@@ -1,6 +1,5 @@
 # Fake-News-Detection
 Uses LSTM networks to identify fake news. Preprocesses text, trains model, and ensures accurate classification.
-# Fake and Real News Classification with LSTM
 
 This repository contains code to classify news articles into fake and real categories using Long Short-Term Memory (LSTM) neural networks. The code processes text data, preprocesses it, builds an LSTM model, trains the model, and evaluates its performance.
 
